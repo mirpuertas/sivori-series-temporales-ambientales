@@ -47,7 +47,9 @@ Una vez configurado el entorno Jupyter, los notebooks pueden abrirse desde el di
 
 El proyecto utiliza mediciones de temperatura y humedad relativa obtenidas mediante sensores interiores HOBO, junto con registros meteorológicos exteriores del Servicio Meteorológico Nacional (SMN).
 
-Por el momento, el repositorio contiene únicamente el código y la documentación metodológica. La publicación de los datos originales, las series procesadas y los resultados queda sujeta a la autorización de los responsables del proyecto. Los procedimientos de preparación y análisis se encuentran documentados en los notebooks, con el propósito de mantener la trazabilidad de las transformaciones realizadas y facilitar la reproducción del trabajo una vez disponibles los datos.
+El repositorio contiene el código, la documentación metodológica y los resultados del análisis estadístico, incluyendo tablas y visualizaciones generadas en los notebooks. Los datos originales y las series procesadas no se distribuyen públicamente, dado que su publicación está sujeta a la autorización de los responsables del proyecto y de las instituciones involucradas.
+
+Los procedimientos de preparación y análisis se encuentran documentados en los notebooks, con el propósito de mantener la trazabilidad de las transformaciones realizadas y facilitar la reproducción del trabajo una vez que se disponga de los datos correspondientes.
 
 ## Antecedente principal
 
